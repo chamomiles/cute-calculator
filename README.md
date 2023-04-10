@@ -7,9 +7,7 @@ Full calculator functionality built over a cute image of one.
 - Decimals
 - *and the other buttons too!*
 
-<video width="320" height="240" controls>
-  <source src="[cute calculator video](https://user-images.githubusercontent.com/108056058/230880981-71ec1f11-1ddc-45b5-bbc5-fb9264f109b7.mov)" type="video/mov">
-</video>
+https://user-images.githubusercontent.com/108056058/230880981-71ec1f11-1ddc-45b5-bbc5-fb9264f109b7.mov
 
 ### Built with JavaScript
 ...too much javascript.
